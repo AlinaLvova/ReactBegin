@@ -27,13 +27,13 @@ let str = `Старший братец ПОНЕДЕЛЬНИК –
 очень любит угощенье
 `;
 
-Решение bulls-and-cows/src/java1.js
+###Решение bulls-and-cows/src/java1.js
 
 ## Задача 2
 
 https://jsbin.com/deyoteb/edit?html,css,js,output - исправить код таким образом, чтобы при фокусе у инпутов добавлялась красная рамка. Обработка событий должна происходить на formElement.
 
-Решение https://jsbin.com/cotudasiso/edit?html,css,js,output
+###Решение https://jsbin.com/cotudasiso/edit?html,css,js,output
 
 
 ## Задача 3. Быки и коровы
@@ -50,4 +50,4 @@ https://jsbin.com/deyoteb/edit?html,css,js,output - исправить код т
 
 Кстати, в Fallout 3, Fallout New Vegas и Fallout 4 для взлома терминалов используется очень похожая мини игра.
 
-Решение bulls-and-cows/src/java2.js
+###Решение bulls-and-cows/src/java2.js
