@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Задачи
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Задача 1
 
-## Available Scripts
+В данном тексте изменить наименование дней недели на английский вариант. Например, строка "Старший братец ПОНЕДЕЛЬНИК ..." будет преобразована в "Старший братец MONDAY..."
+let str = `Старший братец ПОНЕДЕЛЬНИК –
+работяга, не бездельник.
+Он неделю открывает
+всех трудиться зазывает.
 
-In the project directory, you can run:
+ВТОРНИК следует за братом
+у него идей богато.
 
-### `npm start`
+А потом СРЕДА-сестрица,
+не пристало ей лениться.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Брат ЧЕТВЕРГ и так, и сяк,
+он мечтательный чудак.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ПЯТНИЦА-сестра сумела
+побыстрей закончить дело.
 
-### `npm test`
+Предпоследний брат СУББОТА
+не выходит на работу.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+В гости ходит ВОСКРЕСЕНЬЕ,
+очень любит угощенье
+`;
 
-### `npm run build`
+## Задача 2
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://jsbin.com/deyoteb/edit?html,css,js,output - исправить код таким образом, чтобы при фокусе у инпутов добавлялась красная рамка. Обработка событий должна происходить на formElement.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Задача 3. Быки и коровы
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Компьютер загадывает число из нескольких различающихся цифр (от 3 до 6). Игроку дается несколько попыток на то, чтобы угадать это число.
 
-### `npm run eject`
+После каждой попытки компьютер сообщает количество совпавших цифр стоящих не на своих местах, а также количество правильных цифр на своих местах.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Например загаданное число: 56478 предположение игрока: 52976
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ответ: совпавших цифр не на своих местах - 1 (6), цифр на своих местах - 2 (5 и 7)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+игра ведется до окончания количества ходов либо до отгадывания
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Кстати, в Fallout 3, Fallout New Vegas и Fallout 4 для взлома терминалов используется очень похожая мини игра.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
