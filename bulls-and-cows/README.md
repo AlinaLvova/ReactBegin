@@ -35,8 +35,6 @@ https://jsbin.com/deyoteb/edit?html,css,js,output - исправить код т
 
 Решение https://jsbin.com/cotudasiso/edit?html,css,js,output
 
-<a class="jsbin-embed" href="https://jsbin.com/cotudasiso/embed?html,css,js,output">JS Bin on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?4.1.8"></script>
-
 
 ## Задача 3. Быки и коровы
 
